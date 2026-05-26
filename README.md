@@ -12,17 +12,15 @@
 
 ## 📖 İstifadə Təlimatı
 
-Faylı yükləyib brauzerda açın:
+Birbaşa brauzerda oxu (yükləmə lazım deyil):
 
-| Dil | Yüklə |
-|-----|-------|
-| 🇦🇿 Azərbaycan | [EPM-310-RS485-manual-az.html](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-manual-az.html) |
-| 🇬🇧 English | [EPM-310-RS485-manual-en.html](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-manual-en.html) |
-| 🇷🇺 Русский | [EPM-310-RS485-manual-ru.html](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-manual-ru.html) |
-| 🇹🇷 Türkçe | [EPM-310-RS485-manual-tr.html](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-manual-tr.html) |
-| 🇸🇦 العربية | [EPM-310-RS485-manual-ar.html](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-manual-ar.html) |
-
-> 💡 Yükləndikdən sonra faylı iki dəfə klikləyin — brauzerda açılır. İnternet lazım deyil.
+| Dil | Oxu |
+|-----|-----|
+| 🇦🇿 Azərbaycan | [Oxu](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-az.html) |
+| 🇬🇧 English | [Read](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-en.html) |
+| 🇷🇺 Русский | [Читать](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-ru.html) |
+| 🇹🇷 Türkçe | [Oku](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-tr.html) |
+| 🇸🇦 العربية | [اقرأ](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-ar.html) |
 
 ---
 
