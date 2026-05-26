@@ -405,11 +405,11 @@ code{
       <table>
         <tr><th>Requirement</th><th>Minimum</th><th>Recommended</th></tr>
         <tr><td>Operating system</td><td>Windows 7 (64-bit)</td><td>Windows 10/11 (64-bit)</td></tr>
-        <tr><td>RAM</td><td>512 MB</td><td>1 GB və artıq</td></tr>
+        <tr><td>RAM</td><td>512 MB</td><td>1 GB or more</td></tr>
         <tr><td>Disk</td><td>20 MB free space</td><td>—</td></tr>
         <tr><td>Browser</td><td>Chrome, Edge, Firefox</td><td>Google Chrome</td></tr>
         <tr><td>USB port</td><td>1 port</td><td>—</td></tr>
-        <tr><td>USB-RS485 adapter</td><td>CH340, CP2102 və ya FT232</td><td>Nameapter with CH340 chip</td></tr>
+        <tr><td>USB-RS485 adapter</td><td>CH340, CP2102 or FT232</td><td>Nameapter with CH340 chip</td></tr>
       </table>
     </div>
   </div>
@@ -438,7 +438,7 @@ code{
           Click <strong>"More info"</strong>, then click <strong>"Run anyway"</strong>.</p>
         </div>
       </li>
-      <li><strong>Browser açılır</strong> — Bir neçə saniyə ərzində brauzer avtomatik açılır</li>
+      <li><strong>Browser opens</strong> — The browser opens automatically within a few seconds</li>
       <li><strong>Select port</strong> — Select the correct COM port from the Settings section</li>
       <li><strong>Press Connect button</strong> — Data from the device starts flowing</li>
     </ol>
@@ -552,7 +552,7 @@ code{
           <td>5</td>
           <td>Output Current</td><td>A</td>
           <td><span class="badge badge-R">R</span> <span class="badge badge-S">S</span> <span class="badge badge-T">T</span></td>
-          <td>Load tərəfə axan cərəyan</td>
+          <td>Current flowing to the load side</td>
         </tr>
         <tr>
           <td>6</td>
@@ -660,12 +660,12 @@ code{
         <tr>
           <td>Update interval</td>
           <td>How often data will be read (in seconds).</td>
-          <td><code>2 san</code></td>
+          <td><code>2 s</code></td>
         </tr>
         <tr>
           <td>Interface language</td>
           <td>Program language. Choose from 9 languages.</td>
-          <td><code>Azərbaycan</code></td>
+          <td><code>Azerbaijani</code></td>
         </tr>
       </table>
     </div>
@@ -705,8 +705,8 @@ code{
       <li>Select mode from the <strong>dropdown menu</strong> in the upper right:<br>
         &nbsp;&nbsp;• <strong>Voltage (V)</strong> — Output, Input, Bypass<br>
         &nbsp;&nbsp;• <strong>Current (A)</strong> — Input current of 3 phases<br>
-        &nbsp;&nbsp;• <strong>Temperature (°C)</strong> — 3 fazanın temperaturu<br>
-        &nbsp;&nbsp;• <strong>Load (%)</strong> — 3 fazanın yüklənməsi
+        &nbsp;&nbsp;• <strong>Temperaturee (°C)</strong> — Temperaturee of 3 phases<br>
+        &nbsp;&nbsp;• <strong>Load (%)</strong> — Loading of 3 phases
       </li>
     </ol>
 
@@ -737,15 +737,15 @@ code{
     <div class="card" style="background:#0d1017;border:1px solid var(--border);margin-top:10px;padding:10px 14px">
       <div style="font-size:12px;color:var(--txt2);margin-bottom:6px;font-weight:600">📋 Excel columns</div>
       <div style="font-size:12px;color:var(--txt3);line-height:2">
-        Vaxt &nbsp;|&nbsp; R-Çıxış(V) &nbsp;|&nbsp; R-Giriş(V) &nbsp;|&nbsp; R-Bypass(V) &nbsp;|&nbsp; R-Cərəyan(A) &nbsp;|&nbsp; R-Tmp(°C) &nbsp;|&nbsp; R-Load(%) &nbsp;|&nbsp;
-        S-Çıxış(V) &nbsp;|&nbsp; S-Giriş(V) &nbsp;|&nbsp; S-Bypass(V) &nbsp;|&nbsp; … &nbsp;|&nbsp;
-        T-Çıxış(V) &nbsp;|&nbsp; … &nbsp;|&nbsp; Frequency(Hz)
+        Time &nbsp;|&nbsp; R-Output(V) &nbsp;|&nbsp; R-Input(V) &nbsp;|&nbsp; R-Bypass(V) &nbsp;|&nbsp; R-Current(A) &nbsp;|&nbsp; R-Tmp(°C) &nbsp;|&nbsp; R-Load(%) &nbsp;|&nbsp;
+        S-Output(V) &nbsp;|&nbsp; S-Input(V) &nbsp;|&nbsp; S-Bypass(V) &nbsp;|&nbsp; … &nbsp;|&nbsp;
+        T-Output(V) &nbsp;|&nbsp; … &nbsp;|&nbsp; Frequency(Hz)
       </div>
     </div>
 
     <div class="note warn" style="margin-top:10px">
       <span class="note-icon">⚠️</span>
-      <p>Excel Export yalnız <strong>cari brauzer sessiyasının</strong> məlumatlarını ehtiva edir. Proqram yenidən başladıldıqda tarixçə sıfırlanır.</p>
+      <p>Excel export only contains data from the <strong>current browser session</strong>. History resets when the program restarts.</p>
     </div>
   </div>
 
@@ -759,7 +759,7 @@ code{
       <li>Click the <strong>⚙️ Settings</strong> button</li>
       <li>Click the <strong>toggle button</strong> in the <strong>📁 CSV Auto</strong> section — it turns <span style="color:#00cc44">ON</span></li>
       <li>The file name is visible in the settings panel (e.g. <code>epm_log_20260525_220513.csv</code>)</li>
-      <li>Noteiyyatı dayandırmaq üçün toggle-i yenidən basın — <span style="color:#ff4444">OFF</span> olur</li>
+      <li>To stop recording, press the toggle again — it turns <span style="color:#ff4444">OFF</span></li>
     </ol>
 
     <div class="card" style="background:#0d1017;border:1px solid var(--border);margin-top:10px;padding:10px 14px">
@@ -811,15 +811,15 @@ code{
     <div class="tbl-wrap">
       <table>
         <tr><th>Namedress (dec)</th><th>Namedress (hex)</th><th>Name</th><th>Description</th></tr>
-        <tr><td>0</td><td>0x0000</td><td>Çıxış</td><td>Output relay status</td></tr>
+        <tr><td>0</td><td>0x0000</td><td>Output</td><td>Output relay status</td></tr>
         <tr><td>1</td><td>0x0001</td><td>Introduction</td><td>Input signal</td></tr>
         <tr><td>2</td><td>0x0002</td><td>Bypass</td><td>Bypass status</td></tr>
-        <tr><td>3</td><td>0x0003</td><td>Cərəyan</td><td>Current value</td></tr>
+        <tr><td>3</td><td>0x0003</td><td>Current</td><td>Current value</td></tr>
         <tr><td>4</td><td>0x0004</td><td>Error + Fan</td><td>Error code and fan status</td></tr>
         <tr><td>5</td><td>0x0005</td><td>Frequency</td><td>Grid frequency (Hz)</td></tr>
         <tr><td>6</td><td>0x0006</td><td>Temperature</td><td>Device temperature (°C)</td></tr>
-        <tr><td>7</td><td>0x0007</td><td>Load %</td><td>Loadlənmə faizi</td></tr>
-        <tr><td>8</td><td>0x0008</td><td>Namedım + Kontakt</td><td>Namedım sayı və kontakt vəziyyəti</td></tr>
+        <tr><td>7</td><td>0x0007</td><td>Load %</td><td>Load percentage</td></tr>
+        <tr><td>8</td><td>0x0008</td><td>Step + Contact</td><td>Step count and contact status</td></tr>
         <tr><td>9</td><td>0x0009</td><td>Fan</td><td>Fan speed / status</td></tr>
       </table>
     </div>
@@ -841,7 +841,7 @@ code{
   </div>
 
   <div class="card">
-    <div class="card-title"><span class="icon">✏️</span>Value yazma addımları</div>
+    <div class="card-title"><span class="icon">✏️</span>Value writing steps</div>
     <ol class="steps">
       <li>Click the <strong>✏️ Write</strong> button on the main screen</li>
       <li>Write panel opens</li>
@@ -880,11 +880,11 @@ code{
   </div>
 
   <div class="card">
-    <div class="card-title"><span class="icon">🔴</span>Browser açılmır</div>
+    <div class="card-title"><span class="icon">🔴</span>Browser does not open</div>
     <div class="tbl-wrap">
       <table>
         <tr><th>Cause</th><th>Solution</th></tr>
-        <tr><td>Antivirus blocks the EXE</td><td>Add to antivirus exception list</td></tr>
+        <tr><td>Antivirus blocks the EXE</td><td>Named to antivirus exception list</td></tr>
         <tr><td>Port 8766 is occupied by another program</td><td>Close that program and restart the EXE</td></tr>
         <tr><td>Windows Firewall does not allow it</td><td>Allow <code>EPM-310.exe</code> in the firewall</td></tr>
       </table>
@@ -913,7 +913,7 @@ code{
         <tr><th>Cause</th><th>Solution</th></tr>
         <tr><td>Network interference present</td><td>Use shielded cable</td></tr>
         <tr><td>Cable is too long</td><td>Connect 120 Ohm termination resistor</td></tr>
-        <tr><td>Update interval çox azdır</td><td>Increase the interval to 2–5 seconds</td></tr>
+        <tr><td>Update interval is too short</td><td>Increase the interval to 2–5 seconds</td></tr>
       </table>
     </div>
   </div>
@@ -949,7 +949,7 @@ code{
         <tr><td>Slave ID range</td><td>1 – 247</td></tr>
         <tr><td>Baud rate options</td><td>9600, 19200, 38400</td></tr>
         <tr><td>Web port</td><td>8766 (localhost)</td></tr>
-        <tr><td>Update interval</td><td>1 – 60 saniyə</td></tr>
+        <tr><td>Update interval</td><td>1 – 60 s</td></tr>
         <tr><td>Language support</td><td>AZ, EN, RU, AR, DE, FR, ES, UK, TR (9 dil)</td></tr>
         <tr><td>EXE size</td><td>~7 MB</td></tr>
         <tr><td>Platform</td><td>Windows 7/10/11 (64-bit)</td></tr>
@@ -995,9 +995,9 @@ code{
 <!-- FOOTER -->
 <div class="footer">
   <div class="company">Lankon Engineering LLC</div>
-  <p>EPM-310 RS-485 Veb Paneli — İstifadəçi Təlimatı v260525</p>
-  <p>© 2026 Lankon Mühəndislik. Bütün hüquqlar qorunur. · <a href="https://sine8.com" style="color:var(--accent)">sine8.com</a></p>
-  <p style="margin-top:6px;font-size:11px;color:var(--txt3)">Bu proqram GPL v3 lisenziyası əsasında pulsuz yayılır. İcazəsiz brend dəyişikliyi qadağandır.</p>
+  <p>EPM-310 RS-485 Web Panel — User Guide v260525</p>
+  <p>© 2026 Lankon Engineering. All rights reserved. · <a href="https://sine8.com" style="color:var(--accent)">sine8.com</a></p>
+  <p style="margin-top:6px;font-size:11px;color:var(--txt3)">This program is freely distributed under the GPL v3 license. Unauthorized brand modification is prohibited.</p>
 </div>
 
 </body>
