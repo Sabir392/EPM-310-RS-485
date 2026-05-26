@@ -6,7 +6,7 @@
 
 ## ⬇ Proqramı yüklə
 
-**[EPM-310-latest.exe](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-latest.exe)**
+**[EPM-310-RS485-latest.exe](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-latest.exe)**
 
 ---
 
@@ -26,7 +26,7 @@ Birbaşa brauzerda oxu (yükləmə lazım deyil):
 
 ## İstifadə
 
-1. `EPM-310-latest.exe` faylını işlədin
+1. `EPM-310-RS485-latest.exe` faylını işlədin
 2. Brauzer avtomatik açılır
 3. Əyarlardan COM port və Baud Rate seçin
 4. **Bağlan** düyməsinə basın
