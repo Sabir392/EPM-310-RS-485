@@ -1,4 +1,4 @@
-# EPM-310 RS-485 — Veb Panel v260525
+# EPM-310 RS-485 — Veb Panel
 
 **EPM-310** enerji ölçmə cihazı üçün RS-485 / Modbus RTU veb izləmə paneli.
 
@@ -6,7 +6,7 @@
 
 ## ⬇ Proqramı yüklə
 
-**[EPM-310-RS485-latest.exe](https://github.com/Sabir392/EPM-310-RS485-v260525/raw/main/EPM-310-RS485-latest.exe)**
+**[EPM-310-RS485-latest.exe](https://github.com/Sabir392/EPM-310-RS485/raw/main/EPM-310-RS485-latest.exe)**
 
 ---
 
@@ -16,11 +16,11 @@ Birbaşa brauzerda oxu (yükləmə lazım deyil):
 
 | Dil | Oxu |
 |-----|-----|
-| 🇦🇿 Azərbaycan | [Oxu](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-az.html) |
-| 🇬🇧 English | [Read](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-en.html) |
-| 🇷🇺 Русский | [Читать](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-ru.html) |
-| 🇹🇷 Türkçe | [Oku](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-tr.html) |
-| 🇸🇦 العربية | [اقرأ](https://sabir392.github.io/EPM-310-RS485-v260525/EPM-310-RS485-manual-ar.html) |
+| 🇦🇿 Azərbaycan | [Oxu](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-az.html) |
+| 🇬🇧 English | [Read](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-en.html) |
+| 🇷🇺 Русский | [Читать](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-ru.html) |
+| 🇹🇷 Türkçe | [Oku](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-tr.html) |
+| 🇸🇦 العربية | [اقرأ](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-ar.html) |
 
 ---
 
