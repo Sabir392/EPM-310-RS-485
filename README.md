@@ -6,27 +6,26 @@
 
 ## ⬇ Proqramı yüklə
 
-**[EPM-310-RS485-latest.exe](https://github.com/Sabir392/EPM-310-RS485/raw/main/EPM-310-RS485-latest.exe)**
+**[EPM-310-RS-485.exe](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485.exe)**
 
 ---
 
 ## 📖 İstifadə Təlimatı
 
-Birbaşa brauzerda oxu (yükləmə lazım deyil):
-
-| Dil | Oxu |
-|-----|-----|
-| 🇦🇿 Azərbaycan | [Oxu](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-az.html) |
-| 🇬🇧 English | [Read](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-en.html) |
-| 🇷🇺 Русский | [Читать](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-ru.html) |
-| 🇹🇷 Türkçe | [Oku](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-tr.html) |
-| 🇸🇦 العربية | [اقرأ](https://sabir392.github.io/EPM-310-RS485/EPM-310-RS485-manual-ar.html) |
+| Dil | Yüklə |
+|-----|-------|
+| 🇦🇿 Azərbaycan | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-az.pdf) |
+| 🇬🇧 English | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-en.pdf) |
+| 🇷🇺 Русский | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-ru.pdf) |
+| 🇹🇷 Türkçe | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-tr.pdf) |
+| 🇫🇷 Français | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-fr.pdf) |
+| 🇸🇦 العربية | [PDF](https://github.com/Sabir392/EPM-310-RS-485/raw/main/EPM-310-RS-485-ar.pdf) |
 
 ---
 
 ## İstifadə
 
-1. `EPM-310-RS485-latest.exe` faylını işlədin
+1. `EPM-310-RS-485.exe` faylını işlədin
 2. Brauzer avtomatik açılır
 3. Əyarlardan COM port və Baud Rate seçin
 4. **Bağlan** düyməsinə basın
@@ -42,6 +41,3 @@ Birbaşa brauzerda oxu (yükləmə lazım deyil):
 **Lankon Mühəndislik MMC**  
 🌐 [sine8.com](https://sine8.com)  
 📧 info@sine8.com
-
----
-*Bu proqram GPL v3 lisenziyası əsasında paysızlanır.*
